@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kishor-naykodi333/">
+  <a href="https://www.linkedin.com/in/kishor-naykodi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/Kishor333/">
